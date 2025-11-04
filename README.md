@@ -55,7 +55,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FediMechergui&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=FediMechergui&theme=dracula&hide_border=false" height="170" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FediMechergui&theme=dracula&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" height="170" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -63,11 +63,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FediMechergui&theme=dracula&no-frame=false&no-bg=true&margin-w=4&row=1&column=7" width="100%" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=FediMechergui&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+  <img src="https://github-profile-trophy.vercel.app/?username=FediMechergui&theme=dracula&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
