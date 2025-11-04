@@ -55,7 +55,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FediMechergui&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=FediMechergui&theme=dracula&hide_border=false" height="170" alt="GitHub Streak" />
+  ![GitHub Streak](https://streak-stats.demolab.com?user=FediMechergui&theme=dracula&hide_border=false)
 </div>
 
 <div align="center">
@@ -367,3 +367,4 @@ const currentFocus = {
 <p align="center">
   <i>⭐️ From <a href="https://github.com/FediMechergui">FediMechergui</a> - Let's build something amazing together!</i>
 </p>
+
