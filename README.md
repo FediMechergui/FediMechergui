@@ -364,11 +364,6 @@ const currentFocus = {
   <i>⭐️ From <a href="https://github.com/FediMechergui">FediMechergui</a> - Let's build something amazing together!</i>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FediMechergui/FediMechergui/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FediMechergui/FediMechergui/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/FediMechergui/FediMechergui/output/github-snake.svg" />
-</picture>
 
 
 
