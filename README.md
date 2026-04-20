@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=BD93F9&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Fedi+Mechergui;Full+Stack+Developer;DevSecOps+Specialist;System+Designer;Networks+%26+IoT+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=BD93F9&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Fedi+Mechergui;Head+of+Development+%40+MedTours;Systems+%26+Software+Engineer;ERP+%26+System+Design+Specialist;Prompt+Engineering+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">Software Engineer & Networks Expert with a Degree in Embedded Systems and IoT & Network Expertise, from Tunisia 🇹🇳</h3>
 
 <p align="center">
-  <i>Lead Developer at Omnilink | Full Stack Web Development | System Design & Architecture | DevSecOps | Networking & IoT</i>
+  <i>Head of Development at MedTours Travel Agency | Systems Administration | ERP Development | System Design & Software Engineering | Prompt Engineering</i>
 </p>
 
 <p align="center">
@@ -17,10 +17,12 @@
 
 ### 👨‍💻 About Me
 
-- 🚀 **Lead Developer & SCRUM Master** at Omnilink - Mentoring 10+ interns, architecting systems for 5+ projects
+- 🏢 **Head of Development Department** at MedTours Travel Agency - Leading all web development & digital products
+- 🚀 **Former Lead Developer & SCRUM Master** at Omnilink - Mentored 10+ interns, architected systems for 5+ projects
 - 🎓 **Master's in Networking & Cyber Security** | License in Embedded Systems & IoT
 - 👨‍🏫 **Teaching Experience** - Full Stack Web Development & Python instructor
-- 🌱 Continuously exploring **Microservices Architecture**, **System Design Patterns**, and **Advanced DevSecOps**
+- 🏗️ **26+ projects built** — from enterprise ERPs and AI platforms to 3D geomatics tools, mobile AR games, and quantum computing experiments
+- 🌱 Currently focused on **Systems Administration**, **ERP Development**, **System Design**, **Software Engineering**, and **Prompt Engineering**
 - 💼 Check out my portfolio: **[fedi-shell-folio.vercel.app](https://fedi-shell-folio.vercel.app)**
 - 📧 Reach me: **fedimechergui03@gmail.com**
 
@@ -84,7 +86,7 @@
 
 ### 🛠️ Tech Stack & Skills
 
-#### 🌐 Frontend Development
+#### 🌐 Frontend Development & 3D/GIS
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img width="12" />
@@ -101,6 +103,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="TailwindCSS" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" alt="Vite" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="Three.js" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CesiumJS-6CADDF?style=for-the-badge&logoColor=white" height="35" alt="CesiumJS" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MapLibre_GL-396CB2?style=for-the-badge&logoColor=white" height="35" alt="MapLibre GL" />
 </div>
 
 #### ⚙️ Backend Development
@@ -132,9 +142,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logoColor=white" height="35" alt="ChromaDB" />
 </div>
 
 #### 💻 Programming Languages
@@ -152,6 +168,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="Embedded C" />
   <img width="12" />
@@ -202,24 +220,34 @@
   <img src="https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white" height="35" alt="OpenSSL" />
 </div>
 
-#### 🤖 AI & Machine Learning
+#### 🤖 AI, ML & Quantum Computing
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
   <img width="12" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white" height="35" alt="Ollama" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="35" alt="HuggingFace" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" height="35" alt="Qiskit" />
 </div>
 
 #### 📱 Mobile Development
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" height="35" alt="Expo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
 </div>
 
 #### 🔌 IoT & Embedded Systems
@@ -275,30 +303,98 @@
 
 ### 🏆 Featured Projects
 
-#### 🔗 Omnilink CI/CD & Backend
-**Microservices Architecture | DevSecOps | System Design**  
-`03/2025 - 10/2025`
+#### 🏢 Enterprise & Client Work
 
+**🔗 Omnilink CI/CD & Backend Infrastructure**  
+`Microservices Architecture | DevSecOps | System Design` — `03/2025 - 10/2025`
 - Architected and developed backend using **Node.js & Python microservices**
 - Implemented **Redis caching** with hybrid **MySQL + Firebase** database architecture
 - Built complete **CI/CD pipeline** with GitHub Actions, Jenkins, Ansible
 - Monitoring and threat detection via **Grafana, Prometheus, SonarQube, OWASP ZAP, Trivy**
 
-#### 💼 Medianet Opportunities Platform
-**React.js | Data Visualization | PowerBI-inspired**  
-`05/2025 - 06/2025`
+**✈️ MedTour ERP - Travel Agency Management System**  
+`Next.js | TypeScript | MongoDB | Tailwind CSS` — `2025`
+- Internal management system & public storefront for a Tunisian travel agency (Omra, voyages, hotels)
+- Built with **Next.js 14 (App Router)**, MongoDB, and Tailwind CSS across 6 regional agencies
 
-- Developed file upload system with **Excel/CSV export** capabilities
-- Created interactive data visualization with multiple charts
-- Implemented role-based access control for company members
+**🧠 SmartHire - AI Hiring Platform**  
+`MERN Stack | AI` — `06/2025 - 07/2025`
+- AI-powered hiring platform with tailored job offers and AI candidate ranking for HRs
 
-#### 🏥 Doctor Appointment System Management
-**MERN Stack | License Degree Final Project**  
-`02/2023 - 05/2023`
+**🔥 AI Powered Smart Firewall**  
+`Docker | Linux | AI | Cybersecurity` — `06/2025 - 07/2025`
+- Docker-based Linux Firewall with AI threat analysis, prediction, and prevention
 
-- Full-stack patient and appointment management system
-- Complete **CRUD operations** with RESTful API
-- Responsive React.js frontend with Express & MongoDB backend
+---
+
+#### 🚀 Personal & Adventure Builds
+
+**⚛️ Quantum Banking System**  
+`Qiskit | TypeScript | Node.js | Spec-Driven Dev` — `2025`  
+[GitHub](https://github.com/FediMechergui/quantum_bank)
+- Experimental banking core pairing **quantum algorithms** with classical services
+- Built using a prompt/spec workflow for quantum circuit design iteration
+
+**🌍 GeoVista - 3D Geomatics Visualization Platform**  
+`Next.js | Three.js | CesiumJS | MapLibre GL | Zustand` — `2025`  
+[Live](https://geovista-eta.vercel.app)
+- Interactive split-pane 2D/3D geomatics platform with SRTM elevation, 3D OSM buildings, geological layers
+- Optimized with Web Workers, progressive tile loading, and 3-tier LOD
+
+**💰 PayrollHub - Tunisian Payroll & HR Platform**  
+`React | Node.js | Express | MongoDB` — `2025`  
+[Live](https://tunisian-payroll-landing.vercel.app)
+- Full-stack payroll platform with 2025-2026 Tunisian regulation compliance (CNSS, IRPP, SMIG)
+- Automated payroll engine, leave management, PDF payslip generation, RBAC with JWT
+
+**🏛️ BeyGO - Tunisian Beylical History AR Explorer**  
+`React Native | Expo | Node.js | MongoDB` — `2025`  
+[GitHub](https://github.com/FediMechergui/BeyGO)
+- Pokemon Go-style mobile app exploring Tunisian Beylical history through AR
+- Geolocation-based museums, AR puzzles, gamification across all 27 Beys (1593-1957)
+
+**🏠 Immobilier RAG Pipeline - AI Real Estate Assistant**  
+`Python | FastAPI | React | PostgreSQL | Docker` — `2025`  
+[GitHub](https://github.com/FediMechergui/rag-immobilier)
+- Production-ready RAG pipeline for French real estate with multilingual Q&A (FR/EN/AR)
+- Powered by Ollama, ChromaDB, HuggingFace embeddings, and pgvector
+
+**📚 Qutrob - Arabic Roots Educational Game**  
+`React Native | Expo | TypeScript | SQLite` — `2025`  
+[GitHub](https://github.com/FediMechergui/Qutrob)
+- Educational mobile game for Arabic trilateral roots with 33,500+ roots database
+- RTL-optimized parchment UI, streak tracking, 132 unlockable knowledge cards
+
+**🐾 Dahdiha Petshop ERP**  
+`React | TypeScript | Vite | Tailwind CSS` — `2025`  
+[Live](https://dahdiha-petshop-erp.vercel.app)
+- Full ERP for pet shop management: dashboard, inventory, purchasing, sales, accounting, logistics
+
+**📊 MS Consulting – Docteur Projet** — [Live](https://conseil-futur-tpe.vercel.app)  
+**🗺️ GeoChic - Géomatique & Formation** — [Live](https://geo-wala-chic.vercel.app)  
+**🎬 Mood Map Cinema** — [Live](https://mood-map-cinema.vercel.app)  
+**💆 Fondation Bien-Être** — [Live](https://fondation-bien-etre-theta.vercel.app)  
+**🎸 Manel's Metal Sanctuary** — [Live](https://mood-metal-mindscape.vercel.app)  
+**🚀 FWA Launchpad** — [Live](https://fwa-launchpad.vercel.app)  
+**🔗 Omnilink Website** — [Live](https://omnilink-website-try.vercel.app)
+
+---
+
+#### 👥 Portfolios Crafted for Friends
+
+**⚡ Douaa Zammit - IoT & Embedded Systems Portfolio** — [Live](https://circuit-douaa-unfold.vercel.app)  
+**💻 Raghed Saidani - Full Stack Developer Portfolio** — [Live](https://raghed-s-digital-canvas.vercel.app)
+
+---
+
+#### 💼 Other Notable Projects
+
+**💼 Medianet Opportunities Platform** — `ReactJS | Data Visualization | PowerBI-inspired` — `05/2025 - 06/2025`  
+**🏥 Doctor Appointment System** — `MERN Stack | License Final Project` — `02/2023 - 05/2023`  
+**🔐 Secure Messaging - E2E Encryption** — `WebSockets | RSA | AES` — `04/2025`  
+**🎨 ArtGallery - .NET Fullstack** — `.NET | C# | SQL Server` — `03/2025`  
+**📷 AmalAPI - Image Recognition** — `PyTorch | OpenCV | OCR` — `05/2025`  
+**⚡ STEG Lockout Note Mobile App** — `Flutter | SpringBoot | SQL Server` — `04/2025 - 06/2025`
 
 ---
 
@@ -313,6 +409,7 @@
 - System Design & Architectures - Level 2
 - CISCO CCNA 1 - Networks Certification
 - EF SET English Certificate - C2 Proficiency
+- Advent of Cyber 2025 - TryHackMe
 
 **🌍 Languages**
 - Arabic (Native) | English (C2) | French (B1) | German (A1)
@@ -321,10 +418,15 @@
 
 ### 💼 Professional Experience
 
-**Lead Developer & SCRUM Master** @ Omnilink | `07/2024 - Present`
-- Mentoring 10+ interns across various projects
-- Writing CDC and leading SCRUM cycles
-- Distributing tasks and leading development for 5+ projects
+**Head of Development Department** @ MedTours Travel Agency | `11/2025 - Present`
+- Leading all web development roadmaps for MedTours' travel products
+- Coordinating cross-team delivery for every digital project
+- Building standards that keep design, frontend, and backend squads aligned
+
+**Lead Developer & SCRUM Master** @ Omnilink | `07/2024 - 10/2025`
+- Mentored 10+ interns across various projects
+- Wrote CDC and led SCRUM cycles
+- Distributed tasks and led development for 5+ projects
 
 **Formateur/Teacher** @ Format Bac | `08/2025 - 09/2025`
 - Teaching Python Intermediary Level and Full Stack Web Development
@@ -340,9 +442,10 @@
 
 ```javascript
 const currentFocus = {
-  role: "Lead Developer & SCRUM Master at Omnilink",
-  learning: ["Advanced System Design", "Kubernetes Orchestration", "Microservices Patterns"],
-  projects: ["Omnilink Backend Architecture", "DevSecOps Automation", "IoT Solutions"],
+  role: "Head of Development Department at MedTours Travel Agency",
+  mainFocus: ["Systems Administration", "ERP Development", "System Design", "Software Engineering", "Prompt Engineering"],
+  projects: ["26+ projects across web, mobile, AI, IoT & quantum"],
+  building: ["Enterprise ERPs", "Travel Agency Platforms", "AI-Powered Tools", "Scalable Architectures"],
   interests: ["Cloud Native Applications", "AI/ML Integration", "Cybersecurity"],
   motto: "Building scalable systems that make a real difference"
 };
