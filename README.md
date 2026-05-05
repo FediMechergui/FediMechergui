@@ -57,8 +57,8 @@
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FediMechergui&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FediMechergui&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.as93.net/api?username=FediMechergui&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.as93.net/api/top-langs/?username=FediMechergui&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
 
