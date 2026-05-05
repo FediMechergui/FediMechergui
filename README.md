@@ -55,27 +55,20 @@
 
 ### 📊 GitHub Statistics
 
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+<div align="center">
 
   <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=FediMechergui&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" 
+    src="https://github-readme-stats.as93.net/api?username=FediMechergui&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" 
     height="180" 
     alt="GitHub Stats" 
   />
 
   <!-- Most Used Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=FediMechergui&locale=en&hide_title=false&layout=compact&card_width=380&langs_count=6&theme=dracula&hide_border=false" 
+    src="https://github-readme-stats.as93.net/api/top-langs?username=FediMechergui&locale=en&hide_title=false&layout=compact&card_width=380&langs_count=6&theme=dracula&hide_border=false" 
     height="160" 
     alt="Languages Graph" 
-  />
-
-  <!-- Contributor Stats -->
-  <img 
-    src="https://github-contributor-stats.vercel.app/api?username=FediMechergui&limit=5&theme=dracula&combine_all_yearly_contributions=true" 
-    height="180"
-    alt="Top Contributed Repos" 
   />
 
 </div>
