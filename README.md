@@ -55,28 +55,28 @@
 
 ### 📊 GitHub Statistics
 
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+<div align="center">
 
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=FediMechergui&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" 
-    height="180" 
-    alt="GitHub Stats" 
-  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FediMechergui&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FediMechergui&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
-  <!-- Most Used Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=FediMechergui&locale=en&hide_title=false&layout=compact&card_width=380&langs_count=6&theme=dracula&hide_border=false" 
-    height="160" 
-    alt="Languages Graph" 
-  />
+</div>
 
-  <!-- Contributor Stats -->
-  <img 
-    src="https://github-contributor-stats.vercel.app/api?username=FediMechergui&limit=5&theme=dracula&combine_all_yearly_contributions=true" 
-    height="180"
-    alt="Top Contributed Repos" 
-  />
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=FediMechergui&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FediMechergui&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=FediMechergui&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 </div>
 
