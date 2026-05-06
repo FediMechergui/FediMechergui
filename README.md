@@ -21,9 +21,9 @@
 - 🚀 **Former Lead Developer & SCRUM Master** at Omnilink - Mentored 10+ interns, architected systems for 5+ projects
 - 🎓 **Master's in Networking & Cyber Security** | License in Embedded Systems & IoT
 - 👨‍🏫 **Teaching Experience** - Full Stack Web Development & Python instructor
-- 🏗️ **26+ projects built** — from enterprise ERPs and AI platforms to 3D geomatics tools, mobile AR games, and quantum computing experiments
+- 🏗️ **28+ projects built** — from enterprise ERPs and AI platforms to 3D geomatics tools, mobile AR games, and quantum computing experiments
 - 🌱 Currently focused on **Systems Administration**, **ERP Development**, **System Design**, **Software Engineering**, and **Prompt Engineering**
-- 💼 Check out my portfolio: **[fedi-shell-folio.vercel.app](https://fedi-shell-folio.vercel.app)**
+- 💼 Check out my portfolio: **[fedi-shell-folio.vercel.app](https://fedi-shell-folio.vercel.app)** *(terminal-style with GA4 analytics)*
 - 📧 Reach me: **fedimechergui03@gmail.com**
 
 ---
@@ -56,10 +56,10 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-
-  <img height="180em" src="https://github-readme-stats.as93.net/api?username=FediMechergui&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.as93.net/api/top-langs/?username=FediMechergui&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FediMechergui&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FediMechergui&theme=tokyonight" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FediMechergui&theme=tokyonight" alt="Top Languages by Commits" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FediMechergui&theme=tokyonight&utcOffset=1" alt="Productive Time" />
 </div>
 
 <div align="center">
@@ -329,6 +329,20 @@
 
 #### 🚀 Personal & Adventure Builds
 
+**🎮 DevClass - Developer Self-Assessment & Character Sheet**  
+`Next.js | TypeScript | MongoDB | Auth.js | Gemini AI | Recharts` — `2025`  
+[Live](https://devclass-eight.vercel.app)
+- Research-grounded developer self-assessment that turns a signed-in quiz into a durable **character sheet**
+- Scores 63 questions across 9 engineering pillars, assigns one of 10 developer archetypes
+- Pulls public GitHub signals + uses **Gemini 2.5 Flash** to generate a GitHub-aware profile and 4-week dev plan
+
+**🏋️ IRON - Tunisian Gym E-Commerce Prototype**  
+`React | TypeScript | Vite | Tailwind CSS | Zustand | react-i18next` — `2025`  
+[Live](https://iron-ruddy.vercel.app)
+- Frontend-only prototype for a Tunisian supplements & gym-accessories shop
+- Full customer storefront + French admin back-office; **FR / AR / EN** with RTL support
+- TND currency, 24 governorates, COD/D17/Flouci/Konnect payment options, TVA 19%, localStorage persistence
+
 **⚛️ Quantum Banking System**  
 `Qiskit | TypeScript | Node.js | Spec-Driven Dev` — `2025`  
 [GitHub](https://github.com/FediMechergui/quantum_bank)
@@ -444,9 +458,14 @@
 const currentFocus = {
   role: "Head of Development Department at MedTours Travel Agency",
   mainFocus: ["Systems Administration", "ERP Development", "System Design", "Software Engineering", "Prompt Engineering"],
-  projects: ["26+ projects across web, mobile, AI, IoT & quantum"],
+  projects: ["28+ projects across web, mobile, AI, IoT & quantum"],
   building: ["Enterprise ERPs", "Travel Agency Platforms", "AI-Powered Tools", "Scalable Architectures"],
   interests: ["Cloud Native Applications", "AI/ML Integration", "Cybersecurity"],
+  portfolio: {
+    url: "https://fedi-shell-folio.vercel.app",
+    style: "terminal-style with comprehensive GA4 analytics",
+    tracking: ["section views", "command milestones", "scroll depth", "contact form funnel", "tab autocomplete"],
+  },
   motto: "Building scalable systems that make a real difference"
 };
 ```
@@ -480,6 +499,3 @@ const currentFocus = {
 <p align="center">
   <i>⭐️ From <a href="https://github.com/FediMechergui">FediMechergui</a> - Let's build something amazing together!</i>
 </p>
-
-
-
