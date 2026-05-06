@@ -374,7 +374,7 @@
 **🗺️ GeoChic - Géomatique & Formation** — [Live](https://geo-wala-chic.vercel.app)  
 **🎬 Mood Map Cinema** — [Live](https://mood-map-cinema.vercel.app)  
 **💆 Fondation Bien-Être** — [Live](https://fondation-bien-etre-theta.vercel.app)  
-**🎸 Manel's Metal Sanctuary** — [Live](https://mood-metal-mindscape.vercel.app)  
+**🎸 Mood Metal Sanctuary** — [Live](https://mood-metal-mindscape.vercel.app)  
 **🚀 FWA Launchpad** — [Live](https://fwa-launchpad.vercel.app)  
 **🔗 Omnilink Website** — [Live](https://omnilink-website-try.vercel.app)
 
