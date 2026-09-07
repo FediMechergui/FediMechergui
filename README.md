@@ -1,11 +1,20 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=BD93F9&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Fedi+Mechergui;Head+of+Development+%40+MedTours;Systems+%26+Software+Engineer;ERP+%26+System+Design+Specialist;Prompt+Engineering+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=BD93F9&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Fedi+Mechergui;Head+of+Development+%40+MedTours;Systems+%26+Software+Engineer;ERP+%26+System+Design+Specialist;Open+for+Projects+%26+Online+Tutoring" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">Software Engineer & Networks Expert with a Degree in Embedded Systems and IoT & Network Expertise, from Tunisia 🇹🇳</h3>
 
 <p align="center">
   <i>Head of Development at MedTours Travel Agency | Systems Administration | ERP Development | System Design & Software Engineering | Prompt Engineering</i>
+</p>
+
+<p align="center">
+  <a href="https://workwebsite-bay.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Software_Studio-Hire_me-1E4EA1?style=for-the-badge&logoColor=white" height="38" alt="Software studio site" />
+  </a>
+  <a href="https://workwebsite-bay.vercel.app#tutoring" target="_blank">
+    <img src="https://img.shields.io/badge/Online_Tutoring-Book_a_session-4A5A6E?style=for-the-badge&logoColor=white" height="38" alt="Book a tutoring session" />
+  </a>
 </p>
 
 <p align="center">
@@ -23,14 +32,35 @@
 - 👨‍🏫 **Teaching Experience** - Full Stack Web Development & Python instructor
 - 🏗️ **28+ projects built** — from enterprise ERPs and AI platforms to 3D geomatics tools, mobile AR games, and quantum computing experiments
 - 🌱 Currently focused on **Systems Administration**, **ERP Development**, **System Design**, **Software Engineering**, and **Prompt Engineering**
-- 💼 Check out my portfolio: **[fedi-shell-folio.vercel.app](https://fedi-shell-folio.vercel.app)** *(terminal-style with GA4 analytics)*
+- 💼 **Open for freelance projects and online tutoring** — see **[my software studio site](https://workwebsite-bay.vercel.app)**
+- 🖥️ Also on the terminal: **[fedi-shell-folio.vercel.app](https://fedi-shell-folio.vercel.app)** *(terminal-style with GA4 analytics)*
 - 📧 Reach me: **fedimechergui03@gmail.com**
+
+---
+
+### 💼 Work With Me
+
+I take on freelance work for Tunisian businesses and international clients, remotely or on site in Tunis, in **Arabic, English or French**.
+
+| What | Details |
+|---|---|
+| 🌐 **Full-stack web apps & ERPs** | Next.js, React or Vue on Node, NestJS, Django or .NET |
+| 📱 **Mobile apps** | React Native and Expo first, Flutter or Kotlin when native matters |
+| 🚀 **DevSecOps & cloud** | CI/CD, Docker, Kubernetes, Grafana, Trivy and SonarQube on every build |
+| 🤖 **AI integration** | RAG pipelines, Ollama, ChromaDB, pgvector, Gemini, OCR services |
+| 🏗️ **System design consulting** | Written specs, service boundaries, data models, caching strategy |
+| 👨‍🏫 **Online tutoring & mentoring** | Python, full-stack web, DevOps and system design, from teenagers to junior devs |
+
+**→ [Send a brief or book a session](https://workwebsite-bay.vercel.app#contact)**
 
 ---
 
 ### 🌐 Connect With Me
 
 <div align="left">
+  <a href="https://workwebsite-bay.vercel.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Website&logo=vercel&color=1E4EA1&logoColor=white&style=for-the-badge" height="35" alt="Website" />
+  </a>
   <a href="https://www.instagram.com/fedimechergui7/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
   </a>
@@ -305,6 +335,20 @@
 
 #### 🏢 Enterprise & Client Work
 
+**✈️ medtour.io - MedTours Public Website**  
+`Next.js | MongoDB | Tailwind CSS` — `2026`  
+[Live](https://medtour.io)
+- Public website of the travel agency: Omra and Hajj, organised trips, circuits, hotels, flights, Schengen visas
+- Bilingual **French and Arabic**, live offer catalogue and booking funnel
+
+**🗂️ MedTour DAM - Digital Asset Management**  
+`Next.js | MongoDB | Node.js` — `2026`
+- Internal digital asset management platform for MedTours: media library, tagging, and reuse across campaigns
+
+**📥 MedTour Unified Inbox**  
+`Next.js | Node.js | MongoDB` — `2026`
+- One inbox for every customer conversation across MedTours' channels, with assignment and follow-up
+
 **🔗 Omnilink CI/CD & Backend Infrastructure**  
 `Microservices Architecture | DevSecOps | System Design` — `03/2025 - 10/2025`
 - Architected and developed backend using **Node.js & Python microservices**
@@ -329,6 +373,14 @@
 
 #### 🚀 Personal & Adventure Builds
 
+**🏋️ FitCoach - Offline-First Fitness, Nutrition & Health App**  
+`React Native | Expo | TypeScript | SQLite` — `2026`  
+[GitHub](https://github.com/FediMechergui/FitCoach)
+- Private coaching app for Android that runs with **no account and no internet**, all data on device
+- 550-exercise library by muscle group and equipment, training splits, mandatory warm-ups
+- Nutrition engine (Mifflin-St Jeor macros), water, caffeine, sleep and body-composition tracking
+- Daily check-in streaks, native hardware step counter, **PDF reports** for a nutritionist or coach
+
 **🎮 DevClass - Developer Self-Assessment & Character Sheet**  
 `Next.js | TypeScript | MongoDB | Auth.js | Gemini AI | Recharts` — `2025`  
 [Live](https://devclass-eight.vercel.app)
@@ -343,10 +395,11 @@
 - Full customer storefront + French admin back-office; **FR / AR / EN** with RTL support
 - TND currency, 24 governorates, COD/D17/Flouci/Konnect payment options, TVA 19%, localStorage persistence
 
-**⚛️ Quantum Banking System**  
-`Qiskit | TypeScript | Node.js | Spec-Driven Dev` — `2025`  
+**⚛️ Quantum Banking System** — *built with Raghed Saidani*  
+`Qiskit | Flask | React | PostgreSQL | Spec-Driven Dev` — `2025`  
 [GitHub](https://github.com/FediMechergui/quantum_bank)
 - Experimental banking core pairing **quantum algorithms** with classical services
+- QRNG for token entropy, **BB84** key distribution, VQC and QSVM fraud detection
 - Built using a prompt/spec workflow for quantum circuit design iteration
 
 **🌍 GeoVista - 3D Geomatics Visualization Platform**  
@@ -384,6 +437,8 @@
 [Live](https://dahdiha-petshop-erp.vercel.app)
 - Full ERP for pet shop management: dashboard, inventory, purchasing, sales, accounting, logistics
 
+**💼 Fedi Mechergui - Software Studio Site** — [Live](https://workwebsite-bay.vercel.app) · [Repo](https://github.com/FediMechergui/fedi-mechergui-site)  
+`Vite | React 19 | TypeScript | Tailwind v4 | Motion | EmailJS`  
 **📊 MS Consulting – Docteur Projet** — [Live](https://conseil-futur-tpe.vercel.app)  
 **🗺️ GeoChic - Géomatique & Formation** — [Live](https://geo-wala-chic.vercel.app)  
 **🎬 Mood Map Cinema** — [Live](https://mood-map-cinema.vercel.app)  
@@ -432,6 +487,11 @@
 
 ### 💼 Professional Experience
 
+**Freelance Software Engineer & Online Tutor** | `Present`
+- Web apps, ERPs, mobile apps, DevSecOps and AI integration for Tunisian and international clients
+- Online tutoring in Python, full-stack web, DevOps and system design
+- Working in Arabic, English and French, remote or on site in Tunis
+
 **Head of Development Department** @ MedTours Travel Agency | `11/2025 - Present`
 - Leading all web development roadmaps for MedTours' travel products
 - Coordinating cross-team delivery for every digital project
@@ -456,16 +516,19 @@
 
 ```javascript
 const currentFocus = {
-  role: "Head of Development Department at MedTours Travel Agency",
+  role: "Head of Development @ MedTours + freelance software engineer",
+  availableFor: ["client projects", "online tutoring & mentoring"],
   mainFocus: ["Systems Administration", "ERP Development", "System Design", "Software Engineering", "Prompt Engineering"],
   projects: ["28+ projects across web, mobile, AI, IoT & quantum"],
   building: ["Enterprise ERPs", "Travel Agency Platforms", "AI-Powered Tools", "Scalable Architectures"],
   interests: ["Cloud Native Applications", "AI/ML Integration", "Cybersecurity"],
-  portfolio: {
-    url: "https://fedi-shell-folio.vercel.app",
-    style: "terminal-style with comprehensive GA4 analytics",
-    tracking: ["section views", "command milestones", "scroll depth", "contact form funnel", "tab autocomplete"],
+  studio: {
+    url: "https://workwebsite-bay.vercel.app",
+    services: ["web apps & ERPs", "mobile", "DevSecOps", "AI integration", "system design", "tutoring"],
+    languages: ["Arabic", "English", "French"],
+    basedIn: "La Marsa, Tunis 🇹🇳",
   },
+  terminalPortfolio: "https://fedi-shell-folio.vercel.app",
   motto: "Building scalable systems that make a real difference"
 };
 ```
