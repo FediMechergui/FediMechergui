@@ -345,8 +345,9 @@ I take on freelance work for Tunisian businesses and international clients, remo
 `Next.js | MongoDB | Node.js` — `2026`
 - Internal digital asset management platform for MedTours: media library, tagging, and reuse across campaigns
 
-**📥 MedTour Unified Inbox**  
-`Next.js | Node.js | MongoDB` — `2026`
+**📥 MedTour Unified Inbox** — *with [Adem Chammakhi](https://github.com/AdemChammakhi)*  
+`Next.js | Node.js | MongoDB` — `2026`  
+[GitHub](https://github.com/AdemChammakhi/Unified-Inbox)
 - One inbox for every customer conversation across MedTours' channels, with assignment and follow-up
 
 **🔗 Omnilink CI/CD & Backend Infrastructure**  
@@ -395,7 +396,7 @@ I take on freelance work for Tunisian businesses and international clients, remo
 - Full customer storefront + French admin back-office; **FR / AR / EN** with RTL support
 - TND currency, 24 governorates, COD/D17/Flouci/Konnect payment options, TVA 19%, localStorage persistence
 
-**⚛️ Quantum Banking System** — *built with Raghed Saidani*  
+**⚛️ Quantum Banking System** — *with [Raghed Saidani](https://github.com/raghe-d78) ([her repo](https://github.com/raghe-d78/quantum-banking-system))*  
 `Qiskit | Flask | React | PostgreSQL | Spec-Driven Dev` — `2025`  
 [GitHub](https://github.com/FediMechergui/quantum_bank)
 - Experimental banking core pairing **quantum algorithms** with classical services
@@ -420,10 +421,10 @@ I take on freelance work for Tunisian businesses and international clients, remo
 - Pokemon Go-style mobile app exploring Tunisian Beylical history through AR
 - Geolocation-based museums, AR puzzles, gamification across all 27 Beys (1593-1957)
 
-**🏠 Immobilier RAG Pipeline - AI Real Estate Assistant**  
+**🏠 Immobilier - Cognitive Graph RAG for Real Estate** — *with [Raghed Saidani](https://github.com/raghe-d78)*  
 `Python | FastAPI | React | PostgreSQL | Docker` — `2025`  
 [GitHub](https://github.com/FediMechergui/rag-immobilier)
-- Production-ready RAG pipeline for French real estate with multilingual Q&A (FR/EN/AR)
+- Production-ready cognitive graph RAG pipeline for French real estate with multilingual Q&A (FR/EN/AR)
 - Powered by Ollama, ChromaDB, HuggingFace embeddings, and pgvector
 
 **📚 Qutrob - Arabic Roots Educational Game**  
