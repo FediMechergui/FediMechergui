@@ -33,7 +33,7 @@
 - 🏗️ **28+ projects built** — from enterprise ERPs and AI platforms to 3D geomatics tools, mobile AR games, and quantum computing experiments
 - 🌱 Currently focused on **Systems Administration**, **ERP Development**, **System Design**, **Software Engineering**, and **Prompt Engineering**
 - 💼 **Open for freelance projects and online tutoring** — see **[my software studio site](https://workwebsite-fm.netlify.app)**
-- 🖥️ Also on the terminal: **[fedi-shell-folio.vercel.app](https://fedi-shellfolio.netlify.app)** *(terminal-style with GA4 analytics)*
+- 🖥️ Also on the terminal: **[fedi-shellfolio.netlify.app](https://fedi-shellfolio.netlify.app)** *(terminal-style with GA4 analytics)*
 - 📧 Reach me: **fedimechergui03@gmail.com**
 
 ---
