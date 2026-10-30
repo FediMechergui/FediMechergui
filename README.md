@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://workwebsite-bay.vercel.app" target="_blank">
+  <a href="https://workwebsite-fm.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Software_Studio-Hire_me-1E4EA1?style=for-the-badge&logoColor=white" height="38" alt="Software studio site" />
   </a>
-  <a href="https://workwebsite-bay.vercel.app#tutoring" target="_blank">
+  <a href="https://workwebsite-fm.netlify.app#tutoring" target="_blank">
     <img src="https://img.shields.io/badge/Online_Tutoring-Book_a_session-4A5A6E?style=for-the-badge&logoColor=white" height="38" alt="Book a tutoring session" />
   </a>
 </p>
@@ -32,8 +32,8 @@
 - 👨‍🏫 **Teaching Experience** - Full Stack Web Development & Python instructor
 - 🏗️ **28+ projects built** — from enterprise ERPs and AI platforms to 3D geomatics tools, mobile AR games, and quantum computing experiments
 - 🌱 Currently focused on **Systems Administration**, **ERP Development**, **System Design**, **Software Engineering**, and **Prompt Engineering**
-- 💼 **Open for freelance projects and online tutoring** — see **[my software studio site](https://workwebsite-bay.vercel.app)**
-- 🖥️ Also on the terminal: **[fedi-shell-folio.vercel.app](https://fedi-shell-folio.vercel.app)** *(terminal-style with GA4 analytics)*
+- 💼 **Open for freelance projects and online tutoring** — see **[my software studio site](https://workwebsite-fm.netlify.app)**
+- 🖥️ Also on the terminal: **[fedi-shell-folio.vercel.app](https://fedi-shellfolio.netlify.app)** *(terminal-style with GA4 analytics)*
 - 📧 Reach me: **fedimechergui03@gmail.com**
 
 ---
@@ -51,14 +51,14 @@ I take on freelance work for Tunisian businesses and international clients, remo
 | 🏗️ **System design consulting** | Written specs, service boundaries, data models, caching strategy |
 | 👨‍🏫 **Online tutoring & mentoring** | Python, full-stack web, DevOps and system design, from teenagers to junior devs |
 
-**→ [Send a brief or book a session](https://workwebsite-bay.vercel.app#contact)**
+**→ [Send a brief or book a session](https://workwebsite-fm.netlify.app#contact)**
 
 ---
 
 ### 🌐 Connect With Me
 
 <div align="left">
-  <a href="https://workwebsite-bay.vercel.app" target="_blank">
+  <a href="https://workwebsite-fm.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Website&logo=vercel&color=1E4EA1&logoColor=white&style=for-the-badge" height="35" alt="Website" />
   </a>
   <a href="https://www.instagram.com/fedimechergui7/" target="_blank">
@@ -391,7 +391,7 @@ I take on freelance work for Tunisian businesses and international clients, remo
 
 **🏋️ IRON - Tunisian Gym E-Commerce Prototype**  
 `React | TypeScript | Vite | Tailwind CSS | Zustand | react-i18next` — `2025`  
-[Live](https://iron-ruddy.vercel.app)
+[Live](https://iron-fm.netlify.app)
 - Frontend-only prototype for a Tunisian supplements & gym-accessories shop
 - Full customer storefront + French admin back-office; **FR / AR / EN** with RTL support
 - TND currency, 24 governorates, COD/D17/Flouci/Konnect payment options, TVA 19%, localStorage persistence
@@ -405,13 +405,13 @@ I take on freelance work for Tunisian businesses and international clients, remo
 
 **🌍 GeoVista - 3D Geomatics Visualization Platform**  
 `Next.js | Three.js | CesiumJS | MapLibre GL | Zustand` — `2025`  
-[Live](https://geovista-eta.vercel.app)
+[Live](https://geovista-fm.netlify.app)
 - Interactive split-pane 2D/3D geomatics platform with SRTM elevation, 3D OSM buildings, geological layers
 - Optimized with Web Workers, progressive tile loading, and 3-tier LOD
 
 **💰 PayrollHub - Tunisian Payroll & HR Platform**  
 `React | Node.js | Express | MongoDB` — `2025`  
-[Live](https://tunisian-payroll-landing.vercel.app)
+[Live](https://tunisian-payroll-landing.netlify.app)
 - Full-stack payroll platform with 2025-2026 Tunisian regulation compliance (CNSS, IRPP, SMIG)
 - Automated payroll engine, leave management, PDF payslip generation, RBAC with JWT
 
@@ -435,25 +435,25 @@ I take on freelance work for Tunisian businesses and international clients, remo
 
 **🐾 Dahdiha Petshop ERP**  
 `React | TypeScript | Vite | Tailwind CSS` — `2025`  
-[Live](https://dahdiha-petshop-erp.vercel.app)
+[Live](https://dahdiha-petshop-erp.netlify.app)
 - Full ERP for pet shop management: dashboard, inventory, purchasing, sales, accounting, logistics
 
-**💼 Fedi Mechergui - Software Studio Site** — [Live](https://workwebsite-bay.vercel.app) · [Repo](https://github.com/FediMechergui/fedi-mechergui-site)  
+**💼 Fedi Mechergui - Software Studio Site** — [Live](https://workwebsite-fm.netlify.app) · [Repo](https://github.com/FediMechergui/fedi-mechergui-site)  
 `Vite | React 19 | TypeScript | Tailwind v4 | Motion | EmailJS`  
-**📊 MS Consulting – Docteur Projet** — [Live](https://conseil-futur-tpe.vercel.app)  
-**🗺️ GeoChic - Géomatique & Formation** — [Live](https://geo-wala-chic.vercel.app)  
-**🎬 Mood Map Cinema** — [Live](https://mood-map-cinema.vercel.app)  
-**💆 Fondation Bien-Être** — [Live](https://fondation-bien-etre-theta.vercel.app)  
-**🎸 Mood Metal Sanctuary** — [Live](https://mood-metal-mindscape.vercel.app)  
-**🚀 FWA Launchpad** — [Live](https://fwa-launchpad.vercel.app)  
-**🔗 Omnilink Website** — [Live](https://omnilink-website-try.vercel.app)
+**📊 MS Consulting – Docteur Projet** — [Live](https://conseil-futur-tpe.netlify.app)  
+**🗺️ GeoChic - Géomatique & Formation** — [Live](https://geo-wala-chic.netlify.app)  
+**🎬 Mood Map Cinema** — [Live](https://mood-map-cinema.netlify.app)  
+**💆 Fondation Bien-Être** — [Live](https://fondation-bien-etre.netlify.app)  
+**🎸 Mood Metal Sanctuary** — [Live](https://mood-mindscape-fm.netlify.app)  
+**🚀 FWA Launchpad** — [Live](https://fwa-launchpad.netlify.app)  
+**🔗 Omnilink Website** — [Live](https://omnilink-website.netlify.app)
 
 ---
 
 #### 👥 Portfolios Crafted for Friends
 
-**⚡ Douaa Zammit - IoT & Embedded Systems Portfolio** — [Live](https://circuit-douaa-unfold.vercel.app)  
-**💻 Raghed Saidani - Full Stack Developer Portfolio** — [Live](https://raghed-s-digital-canvas.vercel.app)
+**⚡ Douaa Zammit - IoT & Embedded Systems Portfolio** — [Live](https://circuit-douaa-unfold.netlify.app)  
+**💻 Raghed Saidani - Full Stack Developer Portfolio** — [Live](https://raghed-s-digital-canvas.netlify.app)
 
 ---
 
@@ -524,12 +524,12 @@ const currentFocus = {
   building: ["Enterprise ERPs", "Travel Agency Platforms", "AI-Powered Tools", "Scalable Architectures"],
   interests: ["Cloud Native Applications", "AI/ML Integration", "Cybersecurity"],
   studio: {
-    url: "https://workwebsite-bay.vercel.app",
+    url: "https://workwebsite-fm.netlify.app",
     services: ["web apps & ERPs", "mobile", "DevSecOps", "AI integration", "system design", "tutoring"],
     languages: ["Arabic", "English", "French"],
     basedIn: "La Marsa, Tunis 🇹🇳",
   },
-  terminalPortfolio: "https://fedi-shell-folio.vercel.app",
+  terminalPortfolio: "https://fedi-shellfolio.netlify.app",
   motto: "Building scalable systems that make a real difference"
 };
 ```
