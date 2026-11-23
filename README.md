@@ -1,8 +1,10 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=BD93F9&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Fedi+Mechergui;Head+of+Development+%40+MedTours;Systems+%26+Software+Engineer;ERP+%26+System+Design+Specialist;Open+for+Projects+%26+Online+Tutoring" alt="Typing SVG" />
-</h1>
+<h1 align="center">Fedi Mechergui</h1>
 
-<h3 align="center">Software Engineer & Networks Expert with a Degree in Embedded Systems and IoT & Network Expertise, from Tunisia 🇹🇳</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=BD93F9&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Fedi+Mechergui;Head+of+Development+%40+MedTours;Systems+%26+Software+Engineer;ERP+%26+System+Design+Specialist;Open+for+Projects+%26+Online+Tutoring" alt="Full-stack software engineer, Head of Development at MedTours, available for projects and tutoring" />
+</p>
+
+<h3 align="center">Full-stack Software Engineer · Networks & Embedded Systems · Tunisia 🇹🇳</h3>
 
 <p align="center">
   <i>Head of Development at MedTours Travel Agency | Systems Administration | ERP Development | System Design & Software Engineering | Prompt Engineering</i>
@@ -30,10 +32,10 @@
 - 🚀 **Former Lead Developer & SCRUM Master** at Omnilink - Mentored 10+ interns, architected systems for 5+ projects
 - 🎓 **Master's in Networking & Cyber Security** | License in Embedded Systems & IoT
 - 👨‍🏫 **Teaching Experience** - Full Stack Web Development & Python instructor
-- 🏗️ **28+ projects built** — from enterprise ERPs and AI platforms to 3D geomatics tools, mobile AR games, and quantum computing experiments
+- 🏗️ **Public work across web, mobile, networking and AI** — explore the projects below, with source code and demos where available
 - 🌱 Currently focused on **Systems Administration**, **ERP Development**, **System Design**, **Software Engineering**, and **Prompt Engineering**
 - 💼 **Open for freelance projects and online tutoring** — see **[my software studio site](https://workwebsite-fm.netlify.app)**
-- 🖥️ Also on the terminal: **[fedi-shellfolio.netlify.app](https://fedi-shellfolio.netlify.app)** *(terminal-style with GA4 analytics)*
+- 🖥️ Also on the terminal: **[fedi-shellfolio.netlify.app](https://fedi-shellfolio.netlify.app)** *(interactive terminal portfolio)*
 - 📧 Reach me: **fedimechergui03@gmail.com**
 
 ---
@@ -46,7 +48,7 @@ I take on freelance work for Tunisian businesses and international clients, remo
 |---|---|
 | 🌐 **Full-stack web apps & ERPs** | Next.js, React or Vue on Node, NestJS, Django or .NET |
 | 📱 **Mobile apps** | React Native and Expo first, Flutter or Kotlin when native matters |
-| 🚀 **DevSecOps & cloud** | CI/CD, Docker, Kubernetes, Grafana, Trivy and SonarQube on every build |
+| 🚀 **DevSecOps & cloud** | Build and deployment pipelines, Docker, Kubernetes, monitoring and security checks |
 | 🤖 **AI integration** | RAG pipelines, Ollama, ChromaDB, pgvector, Gemini, OCR services |
 | 🏗️ **System design consulting** | Written specs, service boundaries, data models, caching strategy |
 | 👨‍🏫 **Online tutoring & mentoring** | Python, full-stack web, DevOps and system design, from teenagers to junior devs |
@@ -64,9 +66,6 @@ I take on freelance work for Tunisian businesses and international clients, remo
   <a href="https://www.instagram.com/fedimechergui7/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
   </a>
-  <a href="https://discord.com/users/fedimechergui" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="Discord" />
-  </a>
   <a href="mailto:fedimechergui03@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
   </a>
@@ -81,9 +80,33 @@ I take on freelance work for Tunisian businesses and international clients, remo
   </a>
 </div>
 
+Discord: `fedimechergui`
+
+---
+
+### ✨ Recent Public Projects
+
+I build complete product workflows: interfaces, APIs, data models, offline experiences and deployment tooling. These are independent projects; pilots and experiments are identified explicitly.
+
+| Project | What it demonstrates | Stack & links |
+|---|---|---|
+| **🚘 Zenlo** | Vehicle rental operations for Tunisian agencies: bookings, inspections, documents, maintenance and payments recorded per business. **Pilot**, with fiscal and integration validation still required. | React · TypeScript · Cloudflare D1/R2 · [Source](https://github.com/FediMechergui/zenlo) |
+| **🌐 NetForge** | Browser network simulation with a deterministic engine, packet inspection and self-grading CCNA learning labs. | TypeScript · React · PixiJS · [Demo](https://net-fm.netlify.app) · [Source](https://github.com/FediMechergui/netforge) |
+| **📚 MLibrary** | Multilingual book discovery and reading, offline shelves, EPUB/PDF imports, annotations, OCR and shareable quote cards on web and Android. | React · TypeScript · Capacitor · Netlify Functions · [Demo](https://mlibrary-fedimechergui.netlify.app) · [Source](https://github.com/FediMechergui/MLibrary) |
+| **🧠 Mémora** | French study app with flashcards, quizzes, written practice and offline progress. The source includes immersive realities and AI course material, multiplayer revision and optional AI feedback. | React · TypeScript · Capacitor · Netlify · [Demo](https://memora-revision-fedi.netlify.app) · [Source](https://github.com/FediMechergui/memorycardsrevision) |
+| **🏋️ FitCoach** | Android workout, nutrition and personal health tracking with device-local storage and an offline-first workflow. | React Native · Expo · SQLite · [Source & releases](https://github.com/FediMechergui/FitCoach) |
+| **🔐 THE VAULT** | **Local biometric demonstration** combining an Android client, PC camera tracking, MATLAB scoring and local-network discovery. | Flutter · Python · MediaPipe · MATLAB · [Source & setup](https://github.com/FediMechergui/the-vault) |
+| **🎬 Dahsha — دهشة** | Arabic and English documentary discovery organised by show and topic, with a web app and Android project. | React · Vite · Netlify Functions · Capacitor · [Demo](https://dahsha.netlify.app) · [Source](https://github.com/FediMechergui/dahsha) |
+| **💬 ComixCenter** | **Preview** comics catalogue, reading guides and reader with a web frontend, API and Android packaging. | Next.js · FastAPI · SQLite · Capacitor · [Source](https://github.com/FediMechergui/comixcenter) |
+
+**For businesses:** these projects demonstrate rental operations, learning platforms, mobile workflows, content catalogues and API integration. [Tell me about your project](mailto:fedimechergui03@gmail.com) or [visit my software studio](https://workwebsite-fm.netlify.app).
+
 ---
 
 ### 📊 GitHub Statistics
+
+<details>
+<summary>View activity, languages and contribution statistics</summary>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FediMechergui&theme=tokyonight" alt="GitHub Stats" />
@@ -104,234 +127,238 @@ I take on freelance work for Tunisian businesses and international clients, remo
 
 </div>
 
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=FediMechergui&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-
-</div>
+<p align="center"><a href="https://github.com/FediMechergui?tab=achievements">View GitHub achievements</a> · <a href="https://github.com/FediMechergui?tab=repositories">Browse repositories</a></p>
 
 
 
 ---
 
+</details>
+
 ### 🛠️ Tech Stack & Skills
+
+<details>
+<summary>Explore my technical toolkit</summary>
+
 
 #### 🌐 Frontend Development & 3D/GIS
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="TailwindCSS" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" alt="Vite" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="Three.js" />
-  <img width="12" />
+  &nbsp;
   <img src="https://img.shields.io/badge/CesiumJS-6CADDF?style=for-the-badge&logoColor=white" height="35" alt="CesiumJS" />
-  <img width="12" />
+  &nbsp;
   <img src="https://img.shields.io/badge/MapLibre_GL-396CB2?style=for-the-badge&logoColor=white" height="35" alt="MapLibre GL" />
 </div>
 
 #### ⚙️ Backend Development
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
 </div>
 
 #### 🗄️ Databases & Caching
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
-  <img width="12" />
+  &nbsp;
   <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logoColor=white" height="35" alt="ChromaDB" />
 </div>
 
 #### 💻 Programming Languages
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="Embedded C" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
 </div>
 
 #### 🚀 DevOps & Cloud Infrastructure
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="Ansible" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="Nginx" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="Apache" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="AWS" />
-  <img width="12" />
+  &nbsp;
+  <span>AWS</span>
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="Grafana" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="Prometheus" />
 </div>
 
 #### 🔐 Security & Networking
 <div align="left">
   <img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="35" alt="CCNA" />
-  <img width="12" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="35" alt="Wireshark" />
-  <img width="12" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white" height="35" alt="Nmap" />
-  <img width="12" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white" height="35" alt="Metasploit" />
-  <img width="12" />
+  &nbsp;
   <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logoColor=white" height="35" alt="OWASP ZAP" />
-  <img width="12" />
+  &nbsp;
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" height="35" alt="SonarQube" />
-  <img width="12" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Trivy-00ADD8?style=for-the-badge&logoColor=white" height="35" alt="Trivy" />
-  <img width="12" />
+  &nbsp;
   <img src="https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white" height="35" alt="OpenSSL" />
 </div>
 
 #### 🤖 AI, ML & Quantum Computing
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
-  <img width="12" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white" height="35" alt="Ollama" />
-  <img width="12" />
+  &nbsp;
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="35" alt="HuggingFace" />
-  <img width="12" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" height="35" alt="Qiskit" />
 </div>
 
 #### 📱 Mobile Development
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native" />
-  <img width="12" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" height="35" alt="Expo" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
 </div>
 
 #### 🔌 IoT & Embedded Systems
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="Raspberry Pi" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="Embedded C" />
-  <img width="12" />
+  &nbsp;
   <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" height="35" alt="ESP32" />
-  <img width="12" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Thinger.io-00979D?style=for-the-badge&logoColor=white" height="35" alt="Thinger.io" />
 </div>
 
 #### 🛠️ Development Tools & Testing
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="ESLint" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="Selenium" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="Webpack" />
 </div>
 
 #### 🖥️ System Administration
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="Ubuntu" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows" />
-  <img width="12" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Putty-0066CC?style=for-the-badge&logoColor=white" height="35" alt="Putty" />
 </div>
 
 ---
 
-### 🏆 Featured Projects
+</details>
+
+### 🏆 Selected Experience & Earlier Work
 
 #### 🏢 Enterprise & Client Work
 
@@ -366,13 +393,17 @@ I take on freelance work for Tunisian businesses and international clients, remo
 `MERN Stack | AI` — `06/2025 - 07/2025`
 - AI-powered hiring platform with tailored job offers and AI candidate ranking for HRs
 
-**🔥 AI Powered Smart Firewall**  
-`Docker | Linux | AI | Cybersecurity` — `06/2025 - 07/2025`
-- Docker-based Linux Firewall with AI threat analysis, prediction, and prevention
+**🔥 Smart Firewall — Architecture Proposal**<br>
+`Docker | Linux | AI | Cybersecurity`<br>
+[Documentation](https://github.com/FediMechergui/mahdi-firewall)
+- Documented concept for a Linux firewall with AI-assisted threat analysis; the public repository currently contains the proposal rather than an implementation
 
 ---
 
 #### 🚀 Personal & Adventure Builds
+
+<details>
+<summary>Explore earlier projects in fitness, commerce, AI, geomatics and mobile</summary>
 
 **🏋️ FitCoach - Offline-First Fitness, Nutrition & Health App**  
 `React Native | Expo | TypeScript | SQLite` — `2026`  
@@ -384,7 +415,7 @@ I take on freelance work for Tunisian businesses and international clients, remo
 
 **🎮 DevClass - Developer Self-Assessment & Character Sheet**  
 `Next.js | TypeScript | MongoDB | Auth.js | Gemini AI | Recharts` — `2025`  
-[Live](https://devclass-eight.vercel.app)
+[GitHub](https://github.com/FediMechergui/devclass)
 - Research-grounded developer self-assessment that turns a signed-in quiz into a durable **character sheet**
 - Scores 63 questions across 9 engineering pillars, assigns one of 10 developer archetypes
 - Pulls public GitHub signals + uses **Gemini 2.5 Flash** to generate a GitHub-aware profile and 4-week dev plan
@@ -412,7 +443,7 @@ I take on freelance work for Tunisian businesses and international clients, remo
 **💰 PayrollHub - Tunisian Payroll & HR Platform**  
 `React | Node.js | Express | MongoDB` — `2025`  
 [Live](https://tunisian-payroll-landing.netlify.app)
-- Full-stack payroll platform with 2025-2026 Tunisian regulation compliance (CNSS, IRPP, SMIG)
+- Payroll and HR application exploring Tunisian payroll workflows; fiscal and legal validation is required before real-world use
 - Automated payroll engine, leave management, PDF payslip generation, RBAC with JWT
 
 **🏛️ BeyGO - Tunisian Beylical History AR Explorer**  
@@ -424,7 +455,7 @@ I take on freelance work for Tunisian businesses and international clients, remo
 **🏠 Immobilier - Cognitive Graph RAG for Real Estate** — *with [Raghed Saidani](https://github.com/raghe-d78)*  
 `Python | FastAPI | React | PostgreSQL | Docker` — `2025`  
 [GitHub](https://github.com/FediMechergui/rag-immobilier)
-- Production-ready cognitive graph RAG pipeline for French real estate with multilingual Q&A (FR/EN/AR)
+- Experimental cognitive graph RAG pipeline for French real estate with multilingual Q&A (FR/EN/AR)
 - Powered by Ollama, ChromaDB, HuggingFace embeddings, and pgvector
 
 **📚 Qutrob - Arabic Roots Educational Game**  
@@ -436,7 +467,7 @@ I take on freelance work for Tunisian businesses and international clients, remo
 **🐾 Dahdiha Petshop ERP**  
 `React | TypeScript | Vite | Tailwind CSS` — `2025`  
 [Live](https://dahdiha-petshop-erp.netlify.app)
-- Full ERP for pet shop management: dashboard, inventory, purchasing, sales, accounting, logistics
+- Pet shop management interface prototype: dashboard, inventory, purchasing, sales, accounting and logistics
 
 **💼 Fedi Mechergui - Software Studio Site** — [Live](https://workwebsite-fm.netlify.app) · [Repo](https://github.com/FediMechergui/fedi-mechergui-site)  
 `Vite | React 19 | TypeScript | Tailwind v4 | Motion | EmailJS`  
@@ -449,6 +480,8 @@ I take on freelance work for Tunisian businesses and international clients, remo
 **🔗 Omnilink Website** — [Live](https://omnilink-website.netlify.app)
 
 ---
+
+</details>
 
 #### 👥 Portfolios Crafted for Friends
 
@@ -468,12 +501,72 @@ I take on freelance work for Tunisian businesses and international clients, remo
 
 ---
 
+### 🗂️ Public Repository Index
+
+<details>
+<summary>Browse all 48 public repositories reviewed in November 2026</summary>
+
+This index includes product repositories, prototypes, coursework, infrastructure experiments and the profile itself. A public repository is not a claim of production readiness. Open a repository for its current documentation and release status.
+
+- [AmalAPI](https://github.com/FediMechergui/AmalAPI)
+- [aquisitions](https://github.com/FediMechergui/aquisitions)
+- [ArtGallery](https://github.com/FediMechergui/ArtGallery)
+- [BeyGO](https://github.com/FediMechergui/BeyGO)
+- [CalendarPure](https://github.com/FediMechergui/CalendarPure)
+- [comixcenter](https://github.com/FediMechergui/comixcenter)
+- [dahsha](https://github.com/FediMechergui/dahsha)
+- [devclass](https://github.com/FediMechergui/devclass)
+- [devops-pipelines](https://github.com/FediMechergui/devops-pipelines)
+- [doctor-appointment-system](https://github.com/FediMechergui/doctor-appointment-system)
+- [fedi-mechergui-site](https://github.com/FediMechergui/fedi-mechergui-site)
+- [fedi-shellfolio](https://github.com/FediMechergui/fedi-shellfolio)
+- [FediMechergui](https://github.com/FediMechergui/FediMechergui)
+- [FitCoach](https://github.com/FediMechergui/FitCoach)
+- [flixer](https://github.com/FediMechergui/flixer)
+- [fondation-bien-etre](https://github.com/FediMechergui/fondation-bien-etre)
+- [fwa-backend](https://github.com/FediMechergui/fwa-backend)
+- [fwa-launchpad](https://github.com/FediMechergui/fwa-launchpad)
+- [Geovista](https://github.com/FediMechergui/Geovista)
+- [hoteldemo](https://github.com/FediMechergui/hoteldemo)
+- [IRON](https://github.com/FediMechergui/IRON)
+- [kubernetes-demo](https://github.com/FediMechergui/kubernetes-demo)
+- [Madrasti](https://github.com/FediMechergui/Madrasti) — empty repository
+- [mahdi-firewall](https://github.com/FediMechergui/mahdi-firewall) — documentation / proposal
+- [memorycardsrevision](https://github.com/FediMechergui/memorycardsrevision)
+- [MLibrary](https://github.com/FediMechergui/MLibrary)
+- [mood-map-cinema](https://github.com/FediMechergui/mood-map-cinema)
+- [mood-map-cinema_2](https://github.com/FediMechergui/mood-map-cinema_2)
+- [mood-metal-mindscape](https://github.com/FediMechergui/mood-metal-mindscape)
+- [netforge](https://github.com/FediMechergui/netforge)
+- [nodejs_backend](https://github.com/FediMechergui/nodejs_backend)
+- [Omnilink-Website](https://github.com/FediMechergui/Omnilink-Website)
+- [petshop-central-hub](https://github.com/FediMechergui/petshop-central-hub)
+- [prevision-formation-ia](https://github.com/FediMechergui/prevision-formation-ia)
+- [quantum_bank](https://github.com/FediMechergui/quantum_bank)
+- [Qutrob](https://github.com/FediMechergui/Qutrob)
+- [rag-immobilier](https://github.com/FediMechergui/rag-immobilier)
+- [recommandation-stage-ia](https://github.com/FediMechergui/recommandation-stage-ia)
+- [secure-messaging](https://github.com/FediMechergui/secure-messaging)
+- [SkillVault](https://github.com/FediMechergui/SkillVault)
+- [sportswave-2](https://github.com/FediMechergui/sportswave-2)
+- [SportsWave-Android](https://github.com/FediMechergui/SportsWave-Android)
+- [STEG](https://github.com/FediMechergui/STEG)
+- [take-home-assessment-solved](https://github.com/FediMechergui/take-home-assessment-solved)
+- [the-vault](https://github.com/FediMechergui/the-vault)
+- [THEA](https://github.com/FediMechergui/THEA)
+- [tunisian_payroll_hub](https://github.com/FediMechergui/tunisian_payroll_hub)
+- [zenlo](https://github.com/FediMechergui/zenlo)
+
+</details>
+
+---
+
 ### 📜 Certifications & Education
 
 **🎓 Education**
 - **Master's Degree** in Networking Expertise & Cyber Security - ISI Mahdia (2023-2025)
 - **License Degree** in Embedded Systems & IoT - ISSAT Mateur (2020-2023)
-- **Bachelor Degree** in Experimental Sciences - Ali Douaji Highschool (2020)
+- **Baccalaureate** in Experimental Sciences - Ali Douaji High School (2020)
 
 **🏅 Certifications**
 - System Design & Architectures - Level 2
@@ -520,7 +613,7 @@ const currentFocus = {
   role: "Head of Development @ MedTours + freelance software engineer",
   availableFor: ["client projects", "online tutoring & mentoring"],
   mainFocus: ["Systems Administration", "ERP Development", "System Design", "Software Engineering", "Prompt Engineering"],
-  projects: ["28+ projects across web, mobile, AI, IoT & quantum"],
+  projects: ["Zenlo", "NetForge", "MLibrary", "Mémora", "FitCoach", "THE VAULT"],
   building: ["Enterprise ERPs", "Travel Agency Platforms", "AI-Powered Tools", "Scalable Architectures"],
   interests: ["Cloud Native Applications", "AI/ML Integration", "Cybersecurity"],
   studio: {
@@ -557,7 +650,7 @@ const currentFocus = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&animation=twinkling" width="100%" alt="Thanks for visiting" />
 </div>
 
 <p align="center">
