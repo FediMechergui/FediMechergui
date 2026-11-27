@@ -1,0 +1,70 @@
+name: Update profile statistics
+
+on:
+  schedule:
+    - cron: "23 5 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/profile-stats.yml"
+
+concurrency:
+  group: profile-statistics
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+      - name: Generate overview
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
+        with:
+          card: stats
+          options: username=FediMechergui&theme=radical&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&number_format=long&disable_animations=true
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: "true"
+      - name: Generate language breakdown
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
+        with:
+          card: top-langs
+          options: username=FediMechergui&theme=radical&layout=compact&langs_count=10&disable_animations=true
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: "true"
+      - name: Generate contribution streak
+        uses: DenverCoder1/github-readme-streak-stats@125aaaf200620410446ebfa51897fca3607e04fd # v1
+        with:
+          options: user=FediMechergui&theme=radical&timezone=Africa%2FTunis&disable_animations=true
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Validate generated cards
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          from xml.etree import ElementTree as ET
+          for name in ("stats", "top-langs", "streak"):
+              path = Path("profile") / (name + ".svg")
+              root = ET.parse(path).getroot()
+              assert root.tag.endswith("svg"), path
+              text = " ".join(root.itertext()).lower()
+              for error in ("something went wrong", "could not fetch", "rate limit exceeded"):
+                  assert error not in text, (path, error)
+          PY
+      - name: Commit refreshed cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/stats.svg profile/top-langs.svg profile/streak.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m "Refresh public GitHub profile statistics"
+          git pull --rebase origin main
+          git push origin HEAD:main
