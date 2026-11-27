@@ -105,35 +105,49 @@ I build complete product workflows: interfaces, APIs, data models, offline exper
 
 ### 📊 GitHub Statistics
 
-<details>
-<summary>View activity, languages and contribution statistics</summary>
+<p align="center">
+  <a href="https://github.com/FediMechergui?tab=followers"><img src="https://img.shields.io/github/followers/FediMechergui?style=for-the-badge&label=Followers&color=fe428e&labelColor=141321" alt="GitHub followers" /></a>
+  <a href="https://github.com/FediMechergui?tab=repositories"><img src="https://img.shields.io/github/stars/FediMechergui?style=for-the-badge&label=Total%20stars&color=f8d847&labelColor=141321" alt="Total GitHub stars" /></a>
+</p>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FediMechergui&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FediMechergui&theme=tokyonight" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FediMechergui&theme=tokyonight" alt="Top Languages by Commits" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FediMechergui&theme=tokyonight&utcOffset=1" alt="Productive Time" />
-</div>
+<p align="center">
+  <img src="./profile/stats.svg" width="550" alt="Fedi's GitHub statistics: stars, commits, PRs, merged PRs, reviews, issues, discussions and contributed repositories" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="./profile/streak.svg" width="550" alt="Total contributions, current contribution streak and longest contribution streak" />
+</p>
 
-  <img src="https://streak-stats.demolab.com?user=FediMechergui&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<p align="center">
+  <img src="./profile/top-langs.svg" width="450" alt="Ten most-used languages across public repositories, measured by source-code size" />
+</p>
 
-</div>
+#### 📈 Contribution Timeline
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FediMechergui&theme=radical" width="700" alt="Public contribution timeline and repository summary" />
+</p>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FediMechergui&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+#### 🧩 Languages & Commit Habits
 
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FediMechergui&theme=radical" width="340" alt="Most-used languages by repository count" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FediMechergui&theme=radical" width="340" alt="Most-used languages by commit count" />
+</p>
 
-<p align="center"><a href="https://github.com/FediMechergui?tab=achievements">View GitHub achievements</a> · <a href="https://github.com/FediMechergui?tab=repositories">Browse repositories</a></p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FediMechergui&theme=radical&utcOffset=1" width="340" alt="Commit distribution by hour in Tunisia time, UTC plus one" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/FediMechergui?tab=achievements">GitHub achievements</a> ·
+  <a href="https://github.com/FediMechergui?tab=repositories">All repositories</a> ·
+  <a href="https://github.com/FediMechergui/FediMechergui/actions/workflows/profile-stats.yml">Card refresh status</a>
+</p>
 
+<sub>Overview, streak and language cards refresh daily from public GitHub data. Other cards are cached by their providers, so totals and update times may differ. Language percentages describe repository code, not proficiency or time spent coding. The displayed rank is the card provider's metric.</sub>
 
 ---
-
-</details>
 
 ### 🛠️ Tech Stack & Skills
 
